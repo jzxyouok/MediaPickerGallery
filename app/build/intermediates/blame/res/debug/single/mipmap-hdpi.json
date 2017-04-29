@@ -6,13 +6,5 @@
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     }
 ]

@@ -1,13 +1,5 @@
 [
     {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
         "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },

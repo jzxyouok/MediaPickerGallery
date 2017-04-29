@@ -16,7 +16,7 @@ ADDED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xm
 application
 ADDED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml:5:5-18:19
 MERGED from [MediaPickerGallery:uikit:unspecified] D:\demo\2017-04-28\MediaPickerGallery\uikit\build\intermediates\bundles\default\AndroidManifest.xml:15:5-30:19
-MERGED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:7:5-27:19
+MERGED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:7:5-27:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\yangc\.android\build-cache\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\82598b45fbabeb5f4744b1fbb188f59a09e180ef\output\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\3ed2a88704048766fde35f8840f6936a4257a147\output\AndroidManifest.xml:7:5-20
@@ -36,7 +36,7 @@ MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\yangc\.and
 	android:icon
 		ADDED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml:8:9-43
 	android:largeHeap
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:9:9-33
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:9:9-33
 	android:name
 		ADDED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml:6:9-28
 activity#com.hai.picker.MainActivity
@@ -56,7 +56,7 @@ ADDED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xm
 uses-sdk
 INJECTED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [MediaPickerGallery:uikit:unspecified] D:\demo\2017-04-28\MediaPickerGallery\uikit\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
-MERGED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:5:5-44
+MERGED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\yangc\.android\build-cache\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\82598b45fbabeb5f4744b1fbb188f59a09e180ef\output\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\3ed2a88704048766fde35f8840f6936a4257a147\output\AndroidManifest.xml:5:5-43
@@ -114,35 +114,35 @@ ADDED from [MediaPickerGallery:uikit:unspecified] D:\demo\2017-04-28\MediaPicker
 	android:name
 		ADDED from [MediaPickerGallery:uikit:unspecified] D:\demo\2017-04-28\MediaPickerGallery\uikit\build\intermediates\bundles\default\AndroidManifest.xml:26:13-72
 activity#cn.yang.galleryfinal.PhotoSelectActivity
-ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:11:9-14:52
+ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:11:9-14:52
 	android:screenOrientation
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:14:13-49
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:14:13-49
 	android:configChanges
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:13:13-83
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:13:13-83
 	android:name
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:12:13-68
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:12:13-68
 activity#cn.yang.galleryfinal.PhotoEditActivity
-ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:15:9-18:52
+ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:15:9-18:52
 	android:screenOrientation
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:18:13-49
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:18:13-49
 	android:configChanges
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:17:13-83
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:17:13-83
 	android:name
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:16:13-66
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:16:13-66
 activity#cn.yang.galleryfinal.PhotoPreviewActivity
-ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:19:9-22:52
+ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:19:9-22:52
 	android:screenOrientation
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:22:13-49
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:22:13-49
 	android:configChanges
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:21:13-83
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:21:13-83
 	android:name
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:20:13-69
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:20:13-69
 meta-data#cn.yang.galleryfinal.model.MyGlideModule
-ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:24:9-26:43
+ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:24:9-26:43
 	android:value
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:26:13-40
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:26:13-40
 	android:name
-		ADDED from [com.ycjiang:MediaPickerGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediaPickerGallery\build\intermediates\bundles\default\AndroidManifest.xml:25:13-68
+		ADDED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:25:13-68
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
 ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\yangc\.android\build-cache\296471faa9ae5a4f19e51f2361c937f3f4a070d6\output\AndroidManifest.xml:12:5-84
 	android:name

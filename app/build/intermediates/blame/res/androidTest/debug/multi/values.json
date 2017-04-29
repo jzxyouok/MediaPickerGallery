@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "C:\\Users\\yangc\\.android\\build-cache\\24bce448e80141b891564ce967a3518aa5d2a783\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {

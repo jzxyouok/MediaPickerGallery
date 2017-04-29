@@ -86,7 +86,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
     </content>
@@ -121,7 +120,7 @@
     <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
     <orderEntry type="library" exported="" name="support-compat-25.3.1" level="project" />
     <orderEntry type="module" module-name="uikit" exported="" />
-    <orderEntry type="module" module-name="MediaPickerGallery-MediaPickerGallery" exported="" />
+    <orderEntry type="module" module-name="MediarGallery" exported="" />
     <orderEntry type="library" exported="" name="support-annotations-23.4.0" level="project" />
     <orderEntry type="library" exported="" name="eventbus-3.0.0" level="project" />
     <orderEntry type="library" exported="" name="glide-3.7.0" level="project" />

@@ -1,122 +1,62 @@
 [
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_back_pre.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_back_pre.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_triangle_arrow.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_triangle_arrow.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_back_pre.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_folder_check.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_folder_check.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_back_pre.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_back_pre.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_loading_error.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_loading_error.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_video_flag.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_video_flag.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_default_photo.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_default_photo.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_clear.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_clear.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_delete_photo.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_delete_photo.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_video_flag.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_video_flag.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_default_photo.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_default_photo.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_back_nor.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_back_nor.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_delete_photo.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_delete_photo.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_rotate.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_rotate.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_clear.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_clear.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_folder_check.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_crop.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_crop.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_crop.png"
     },
     {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_crop.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_crop.png"
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_video_flag.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_video_flag.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_camera.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_camera.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_rotate.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_rotate.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_camera.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_group_dhk_video.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_group_dhk_video.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_group_dhk_video.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_triangle_arrow.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_triangle_arrow.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_triangle_arrow.png"
     },
     {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_group_dhk_video.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_group_dhk_video.png"
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_clear.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_clear.png"
     },
     {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_camera.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_camera.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_back_nor.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_back_nor.png"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_preview.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_preview.png"
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_delete_photo.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_delete_photo.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_loading_error.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_loading_error.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_loading_error.png"
     },
     {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_folder_check.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_folder_check.png"
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_default_photo.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_default_photo.png"
     },
     {
-        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_play.png",
-        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_play.png"
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_back_nor.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_back_nor.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_play.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_play.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_play.png"
+    },
+    {
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_rotate.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_rotate.png"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gf_preview.png",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_preview.png"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\ic_gf_preview.png"
     }
 ]

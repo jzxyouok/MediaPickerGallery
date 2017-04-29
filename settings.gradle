@@ -1,1 +1,1 @@
-include ':uikit', ':app', ':MediaPickerGallery'
+include ':uikit', ':app', ':MediarGallery'
