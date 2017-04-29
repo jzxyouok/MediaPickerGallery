@@ -233,8 +233,29 @@ setPauseOnScrollListener//设置imageloader滑动加载图片优化OnScrollListe
 <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+ <uses-permission android:name="android.permission.CAMERA" />
 ```
+# 在6.0以上 权限申请
+```java
+   if (Build.VERSION.SDK_INT > 22) {
+            requestGalleryPermission();
+        } else {
+            GalleryFinal.openCamera(10, mediaResultCallback);
+        }
 
+   /**
+     * 获取所有图片
+     */
+    @AfterPermissionGranted(GalleryFinal.PERMISSIONS_CODE_GALLERY)
+    private void requestGalleryPermission() {
+        if (EasyPermissions.hasPermissions(this, Manifest.permission.CAMERA,Manifest.permission.CAMERA,Manifest.permission.READ_EXTERNAL_STORAGE)) {
+            GalleryFinal.openCamera(10, mediaResultCallback);
+        } else {
+            EasyPermissions.requestPermissions(this, getString(cn.finalteam.galleryfinal.R.string.permissions_tips_ca),
+             GalleryFinal.TAKE_REQUEST_CODE, Manifest.permission.CAMERA,Manifest.permission.READ_EXTERNAL_STORAGE);
+        }
+    }
+```
 # 混淆配置   
 ```properties
 -keep class cn.yang.galleryfinal.*{*;}
