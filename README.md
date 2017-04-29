@@ -21,11 +21,16 @@ Android自定义相册，实现了拍照、图片选择（单选/多选）视频
 通过Gradle抓取:
 
 ```gradle
-compile 'cn.finalteam:MediaPickerGallery:1.4.8.7'
+compile 'com.ycjiang:MediarGallery:1.0.1'
 
 ```
-```gradle
-compile 'cn.finalteam:MediaPickerGallery:1.4.8.7'
+```Maven
+<dependency>
+  <groupId>com.ycjiang</groupId>
+  <artifactId>MediarGallery</artifactId>
+  <version>1.0.1</version>
+  <type>pom</type>
+</dependency>
 
 ```
 
