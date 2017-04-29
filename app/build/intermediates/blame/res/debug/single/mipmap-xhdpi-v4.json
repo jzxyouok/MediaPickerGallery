@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_gf_crop_tile.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\ic_gf_crop_tile.png"
+    },
+    {
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_gf_triangle_arrow.png",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\ic_gf_triangle_arrow.png"
+    },
+    {
+        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_gf_crop_tile.png",
+        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\ic_gf_crop_tile.png"
+    },
+    {
+        "merged": "D:\\demo\\2017-04-27\\MediaPicker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_gf_triangle_arrow.png",
+        "source": "D:\\demo\\2017-04-27\\MediaPicker\\MediaPickerGallery\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\ic_gf_triangle_arrow.png"
+    }
+]
