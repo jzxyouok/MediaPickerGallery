@@ -3,7 +3,6 @@
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.android/build-cache/852f5c225a9e725475206768dfb2d5e93fbefb43/output/annotations.zip!/" />
       <root url="jar://$USER_HOME$/.android/build-cache/852f5c225a9e725475206768dfb2d5e93fbefb43/output/annotations.zip!/" />
-      <root url="jar://$USER_HOME$/.android/build-cache/852f5c225a9e725475206768dfb2d5e93fbefb43/output/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.android/build-cache/852f5c225a9e725475206768dfb2d5e93fbefb43/output/jars/classes.jar!/" />
@@ -11,7 +10,6 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/SDK/extras/android/m2repository/com/android/support/support-media-compat/25.3.1/support-media-compat-25.3.1-sources.jar!/" />
       <root url="jar://D:/SDK/extras/android/m2repository/com/android/support/support-media-compat/25.3.1/support-media-compat-25.3.1-sources.jar!/" />
       <root url="jar://D:/SDK/extras/android/m2repository/com/android/support/support-media-compat/25.3.1/support-media-compat-25.3.1-sources.jar!/" />
     </SOURCES>

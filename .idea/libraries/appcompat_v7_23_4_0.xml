@@ -2,8 +2,6 @@
   <library name="appcompat-v7-23.4.0">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.android/build-cache/dc2d5c0ffa57aea058f43e7ba06c78d0a4016156/output/annotations.zip!/" />
-      <root url="jar://$USER_HOME$/.android/build-cache/dc2d5c0ffa57aea058f43e7ba06c78d0a4016156/output/annotations.zip!/" />
-      <root url="jar://$USER_HOME$/.android/build-cache/dc2d5c0ffa57aea058f43e7ba06c78d0a4016156/output/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.android/build-cache/dc2d5c0ffa57aea058f43e7ba06c78d0a4016156/output/jars/classes.jar!/" />
@@ -11,8 +9,6 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/SDK/extras/android/m2repository/com/android/support/appcompat-v7/23.4.0/appcompat-v7-23.4.0-sources.jar!/" />
-      <root url="jar://D:/SDK/extras/android/m2repository/com/android/support/appcompat-v7/23.4.0/appcompat-v7-23.4.0-sources.jar!/" />
       <root url="jar://D:/SDK/extras/android/m2repository/com/android/support/appcompat-v7/23.4.0/appcompat-v7-23.4.0-sources.jar!/" />
     </SOURCES>
   </library>

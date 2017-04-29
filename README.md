@@ -243,12 +243,18 @@ setPauseOnScrollListener//设置imageloader滑动加载图片优化OnScrollListe
 -keep class cn.yang.galleryfinal.widget.zoonview.*{*;}
 ```
 
+# 引用库
 
+```build.gradle
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.android.support:support-v4:25.3.1'
+```
 
 # 感谢（Thanks）
 # GalleryFinal[GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
-* 图片裁剪[android-crop](https://github.com/jdamcd/android-crop)
-* 图片缩放[PhotoView](https://github.com/chrisbanes/PhotoView)
+
 
 
 License

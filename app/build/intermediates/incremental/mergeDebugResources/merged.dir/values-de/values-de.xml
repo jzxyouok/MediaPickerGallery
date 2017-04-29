@@ -42,5 +42,6 @@
     <string name="leak_canary_share_with">Teilen mit…</string>
     <string name="leak_canary_storage_permission_activity_label">Storage Berechtigung</string>
     <string name="leak_canary_toast_heap_dump">Sichere den Speicher, die App wird einfrieren. Brrr.</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>
