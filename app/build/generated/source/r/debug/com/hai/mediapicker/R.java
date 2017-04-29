@@ -672,19 +672,19 @@ public final class R {
         public static final int abc_shareactionprovider_share_with = 0x7f060010;
         public static final int abc_shareactionprovider_share_with_application = 0x7f060011;
         public static final int abc_toolbar_collapse_description = 0x7f060012;
-        public static final int all_video = 0x7f06003a;
-        public static final int app_name = 0x7f06003b;
-        public static final int btn_send = 0x7f06003c;
-        public static final int edit = 0x7f06003e;
-        public static final int image_video = 0x7f060044;
-        public static final int label_picker_activity = 0x7f060045;
-        public static final int original_image = 0x7f06004a;
-        public static final int play_video_fail = 0x7f060051;
-        public static final int preview = 0x7f060053;
-        public static final int preview_multi = 0x7f060054;
-        public static final int select_max_sum = 0x7f060057;
-        public static final int select_media = 0x7f060059;
-        public static final int send_multi = 0x7f06005a;
+        public static final int all_video = 0x7f06002d;
+        public static final int app_name = 0x7f06002e;
+        public static final int btn_send = 0x7f06002f;
+        public static final int edit = 0x7f060030;
+        public static final int image_video = 0x7f060031;
+        public static final int label_picker_activity = 0x7f060032;
+        public static final int original_image = 0x7f060033;
+        public static final int play_video_fail = 0x7f060034;
+        public static final int preview = 0x7f060035;
+        public static final int preview_multi = 0x7f060036;
+        public static final int select_max_sum = 0x7f060037;
+        public static final int select_media = 0x7f060038;
+        public static final int send_multi = 0x7f060039;
         public static final int status_bar_notification_info_overflow = 0x7f060014;
     }
     public static final class style {

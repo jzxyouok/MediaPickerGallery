@@ -21,7 +21,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\push_bottom_out.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\anim\\push_bottom_out.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -49,7 +49,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\push_bottom_in.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\anim\\push_bottom_in.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",

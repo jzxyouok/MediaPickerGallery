@@ -90,7 +90,6 @@
             android:clickable="true"
             android:gravity="center_vertical"
             android:paddingLeft="16dp"
-            android:drawableRight="@drawable/btn_dropdown"
             android:text="@string/image_video" />
 
 

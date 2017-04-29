@@ -277,6 +277,13 @@ setPauseOnScrollListener//设置imageloader滑动加载图片优化OnScrollListe
     compile 'com.github.bumptech.glide:glide:3.7.0'
     compile 'com.android.support:support-v4:25.3.1'
 ```
+使用了v7兼容包，EventBus,Glide，RecyclerView组件。如果项目中包含了这些组件可以使用exclude将这几个组件排除。
+```sh
+ exclude group: 'com.android.support', module: 'appcompat-v7'
+ exclude group: 'com.android.support', module: 'recyclerview-v7'
+ exclude group: 'org.greenrobot', module: 'eventbus'
+ exclude group: 'com.github.bumptech.glide', module: 'glide'
+ ```
 
 # 感谢（Thanks）
 # GalleryFinal[GalleryFinal](https://github.com/pengjianbo/GalleryFinal)

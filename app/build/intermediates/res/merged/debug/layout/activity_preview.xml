@@ -56,9 +56,8 @@
         android:id="@+id/bottom"
         android:layout_width="match_parent"
         android:layout_height="@dimen/toolbar_height"
-        android:background="#393a3f"
         android:layout_alignParentBottom="true"
-       >
+        android:background="#393a3f">
 
 
         <android.support.v7.widget.AppCompatCheckBox

@@ -1,1 +1,1 @@
-include ':uikit', ':app', ':MediarGallery'
+include ':app', ':MediarGallery'

@@ -1,7 +1,7 @@
 [
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preview_video_item.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\layout\\preview_video_item.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\layout\\preview_video_item.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_directory_item.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\layout\\pop_directory_item.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\layout\\pop_directory_item.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -65,7 +65,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_image_item.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\layout\\gallery_image_item.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\layout\\gallery_image_item.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_video_item.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\layout\\gallery_video_item.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\layout\\gallery_video_item.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -181,7 +181,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\layout\\activity_preview.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\layout\\activity_preview.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
@@ -205,7 +205,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_picker.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\layout\\activity_media_picker.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\layout\\activity_media_picker.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -261,6 +261,6 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preview_image_item.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\layout\\preview_image_item.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\layout\\preview_image_item.xml"
     }
 ]

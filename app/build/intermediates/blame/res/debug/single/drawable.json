@@ -65,7 +65,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_bg.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_send_bg.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\drawable\\btn_send_bg.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picker_item_bg.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\drawable\\picker_item_bg.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\\output\\res\\drawable\\picker_item_bg.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -193,7 +193,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dropdown.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\uikit\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_dropdown.xml"
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_dropdown.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
