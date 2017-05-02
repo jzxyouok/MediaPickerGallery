@@ -1,19 +1,19 @@
 [
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -25,7 +25,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -49,11 +49,11 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
@@ -61,7 +61,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_send_bg.xml",
@@ -72,12 +72,12 @@
         "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_select_yes.xml",
-        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable\\drawable_select_yes.xml"
-    },
-    {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_select_yes.xml",
+        "source": "D:\\demo\\2017-04-28\\MediaPickerGallery\\MediarGallery\\build\\intermediates\\bundles\\default\\res\\drawable\\drawable_select_yes.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_selector.xml",
@@ -85,7 +85,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
@@ -93,7 +93,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
@@ -129,15 +129,15 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
@@ -145,7 +145,7 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picker_item_bg.xml",
@@ -153,11 +153,11 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gf_crop_texture.xml",
@@ -165,15 +165,15 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -181,15 +181,15 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dropdown.xml",
@@ -205,6 +205,6 @@
     },
     {
         "merged": "D:\\demo\\2017-04-28\\MediaPickerGallery\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\yangc\\.android\\build-cache\\553bef064307bf92fc42efdc4b7c1f635c479a85\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "source": "C:\\Users\\yangc\\.android\\build-cache\\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\\output\\res\\drawable\\abc_btn_radio_material.xml"
     }
 ]

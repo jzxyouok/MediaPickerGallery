@@ -21,7 +21,7 @@ Android自定义相册，实现了拍照、图片选择（单选/多选）视频
 通过Gradle抓取:
 
 ```gradle
-compile 'com.ycjiang:MediarGallery:1.0.1'
+compile 'com.ycjiang:MediarGallery:1.0.3'
 
 ```
 ```Maven
@@ -272,10 +272,10 @@ setPauseOnScrollListener//设置imageloader滑动加载图片优化OnScrollListe
 # 引用库
 
 ```build.gradle
-    compile 'com.android.support:appcompat-v7:25.3.1'
-    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:recyclerview-v7:23.1.1'
     compile 'com.github.bumptech.glide:glide:3.7.0'
-    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:support-v4:23.1.1'
 ```
 使用了v7兼容包，EventBus,Glide，RecyclerView组件。如果项目中包含了这些组件可以使用exclude将这几个组件排除。
 ```sh

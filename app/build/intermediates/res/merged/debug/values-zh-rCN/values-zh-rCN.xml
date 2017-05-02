@@ -30,7 +30,6 @@
     <string name="play_video_fail">没有检测到视频播放器</string>
     <string name="preview">预览</string>
     <string name="preview_multi">预览(%d)</string>
-    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
     <string name="select_max_sum">你最多只能选择%1$d张图片或视频</string>
     <string name="select_media">选择</string>
     <string name="send_multi">发送(%1$d/%2$d)</string>

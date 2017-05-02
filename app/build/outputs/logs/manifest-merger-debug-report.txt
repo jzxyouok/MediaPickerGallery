@@ -17,15 +17,10 @@ application
 ADDED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml:5:5-18:19
 MERGED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:7:5-27:19
 MERGED from [com.github.xushihai:MediaPicker:v1.1] C:\Users\yangc\.android\build-cache\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\output\AndroidManifest.xml:15:5-30:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yangc\.android\build-cache\553bef064307bf92fc42efdc4b7c1f635c479a85\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yangc\.android\build-cache\1f8530fa6fdef059237d7917462fc33a9add4aaa\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yangc\.android\build-cache\0cc5749c3d13af43a3f388951e3ac8a419bc0a49\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yangc\.android\build-cache\852f5c225a9e725475206768dfb2d5e93fbefb43\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yangc\.android\build-cache\99b163f4ddfd17bb05bace902e70e5ec99a13e2f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yangc\.android\build-cache\24f1122b99a1a9fdf5e2906190fa4d119fea556e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yangc\.android\build-cache\bc042980e676f5851b5a4e0c3c3c2b36aa0beda3\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yangc\.android\build-cache\f1faf07922c6540378af0027f9c891c2361875ba\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yangc\.android\build-cache\814ba16f06dcef03eddf841ed7dfcf4046c5283c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\yangc\.android\build-cache\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\82598b45fbabeb5f4744b1fbb188f59a09e180ef\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\3ed2a88704048766fde35f8840f6936a4257a147\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\yangc\.android\build-cache\cba670e62cb9b0c7eb82033d1af7b0af2aaae4dd\output\AndroidManifest.xml:22:5-20
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\yangc\.android\build-cache\9a557253758a94e4688021dfbf6e9c67e3a7ef6c\output\AndroidManifest.xml:28:5-57:19
 	android:label
 		ADDED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml:9:9-41
@@ -58,19 +53,14 @@ INJECTED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest
 MERGED from [com.ycjiang:MediarGallery:1.0.1] D:\demo\2017-04-28\MediaPickerGallery\MediarGallery\build\intermediates\bundles\default\AndroidManifest.xml:5:5-44
 MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\yangc\.android\build-cache\296471faa9ae5a4f19e51f2361c937f3f4a070d6\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.xushihai:MediaPicker:v1.1] C:\Users\yangc\.android\build-cache\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yangc\.android\build-cache\553bef064307bf92fc42efdc4b7c1f635c479a85\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yangc\.android\build-cache\1f8530fa6fdef059237d7917462fc33a9add4aaa\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yangc\.android\build-cache\0cc5749c3d13af43a3f388951e3ac8a419bc0a49\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yangc\.android\build-cache\852f5c225a9e725475206768dfb2d5e93fbefb43\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yangc\.android\build-cache\99b163f4ddfd17bb05bace902e70e5ec99a13e2f\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yangc\.android\build-cache\24f1122b99a1a9fdf5e2906190fa4d119fea556e\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yangc\.android\build-cache\bc042980e676f5851b5a4e0c3c3c2b36aa0beda3\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\yangc\.android\build-cache\683f04c90cd0949c63d5336a19779b6c57f81ec0\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yangc\.android\build-cache\f1faf07922c6540378af0027f9c891c2361875ba\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yangc\.android\build-cache\814ba16f06dcef03eddf841ed7dfcf4046c5283c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\yangc\.android\build-cache\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\82598b45fbabeb5f4744b1fbb188f59a09e180ef\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\yangc\.android\build-cache\3ed2a88704048766fde35f8840f6936a4257a147\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\yangc\.android\build-cache\a8e2d207c2b19cabc6f219fe4b7634afe8b2bb89\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\yangc\.android\build-cache\cba670e62cb9b0c7eb82033d1af7b0af2aaae4dd\output\AndroidManifest.xml:20:5-43
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\yangc\.android\build-cache\9a557253758a94e4688021dfbf6e9c67e3a7ef6c\output\AndroidManifest.xml:20:5-22:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yangc\.android\build-cache\553bef064307bf92fc42efdc4b7c1f635c479a85\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\yangc\.android\build-cache\dc2d5c0ffa57aea058f43e7ba06c78d0a4016156\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml
 		INJECTED from D:\demo\2017-04-28\MediaPickerGallery\app\src\main\AndroidManifest.xml
@@ -167,21 +157,6 @@ ADDED from [com.github.xushihai:MediaPicker:v1.1] C:\Users\yangc\.android\build-
 		ADDED from [com.github.xushihai:MediaPicker:v1.1] C:\Users\yangc\.android\build-cache\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\output\AndroidManifest.xml:29:13-43
 	android:name
 		ADDED from [com.github.xushihai:MediaPicker:v1.1] C:\Users\yangc\.android\build-cache\bbc7eadc291ecc59cd162432e2504799e5ad8e2d\output\AndroidManifest.xml:26:13-72
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yangc\.android\build-cache\553bef064307bf92fc42efdc4b7c1f635c479a85\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yangc\.android\build-cache\1f8530fa6fdef059237d7917462fc33a9add4aaa\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yangc\.android\build-cache\0cc5749c3d13af43a3f388951e3ac8a419bc0a49\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yangc\.android\build-cache\852f5c225a9e725475206768dfb2d5e93fbefb43\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yangc\.android\build-cache\99b163f4ddfd17bb05bace902e70e5ec99a13e2f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yangc\.android\build-cache\24f1122b99a1a9fdf5e2906190fa4d119fea556e\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yangc\.android\build-cache\bc042980e676f5851b5a4e0c3c3c2b36aa0beda3\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\yangc\.android\build-cache\683f04c90cd0949c63d5336a19779b6c57f81ec0\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yangc\.android\build-cache\f1faf07922c6540378af0027f9c891c2361875ba\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yangc\.android\build-cache\814ba16f06dcef03eddf841ed7dfcf4046c5283c\output\AndroidManifest.xml:25:5-27:34
-	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yangc\.android\build-cache\553bef064307bf92fc42efdc4b7c1f635c479a85\output\AndroidManifest.xml:27:9-31
-	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yangc\.android\build-cache\553bef064307bf92fc42efdc4b7c1f635c479a85\output\AndroidManifest.xml:26:9-47
 service#com.squareup.leakcanary.internal.HeapAnalyzerService
 ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\yangc\.android\build-cache\9a557253758a94e4688021dfbf6e9c67e3a7ef6c\output\AndroidManifest.xml:29:9-32:45
 	android:enabled
